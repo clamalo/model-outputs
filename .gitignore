@@ -1,0 +1,8 @@
+.DS_Store
+domains.txt
+files/
+gif-maker.py
+model.py
+model_config.txt
+model_update_log.html
+points.txt
