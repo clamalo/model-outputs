@@ -132,3 +132,4 @@ From there, the model will begin running and saving the outputs in the subdirect
 
 ### Custom GIF generation
 You can also now generate custom GIFs by running the ```gif-maker.py``` script the same way you ran ```model.py```. This script will ask for the start frame, end frame, step, and parameter to plot. Note that the images must have already been plotted by a prior model run for this script to work. The output GIF will save as ```custom.gif``` in the ```outputs``` directory.
+# model-outputs
